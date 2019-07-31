@@ -1,0 +1,39 @@
+p{
+    margin: 5px 15px 25px 5px;
+    padding: 5px 10px 5px 5px;
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 1px;
+    border-color: lightgray;
+    text-align: left;
+    font-size: 18px;
+    font-family:sans-serif;
+    width: 250px;
+    text-decoration-color: aliceblue;
+    color:white;
+
+    }
+h1{
+    margin: 5px 5px 5px 25px;
+}
+
+div{
+    padding: 5px;
+    margin: 10px;
+}
+input{
+    padding: 5px;
+    margin: 5px;
+    border: 0px;
+    background-color: lightblue;
+    margin: 25px;
+    
+   
+}
+body{
+    background-color:darkslategray;
+}
+.active{
+    background-color: firebrick;
+}
+
